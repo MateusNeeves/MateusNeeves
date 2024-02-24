@@ -10,7 +10,7 @@
 
 ## 
 
-<h2 align="center"><samp> See a litte bit of my last project, a game based on the game Hollow Knight: </samp></h2>
+<h2 align="center"><samp> See a litte bit of this project of mine, a game based on the game Hollow Knight: </samp></h2>
 <p align="center">
     <img align="center" alt="NeedleKnight" src="https://media.giphy.com/media/fx3UWXYoR4LZWtm0Zy/giphy.gif">
     
